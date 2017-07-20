@@ -1,0 +1,148 @@
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/AnacondaRecipes/zlib-feedstock
+	branch = master
+[submodule "xz"]
+	path = xz
+	url = https://github.com/AnacondaRecipes/xz-feedstock
+	branch = master
+[submodule "bzip2"]
+	path = bzip2
+	url = https://github.com/AnacondaRecipes/bzip2-feedstock
+	branch = master
+[submodule "libffi"]
+	path = libffi
+	url = https://github.com/AnacondaRecipes/libffi-feedstock
+	branch = master
+[submodule "ca-certificates"]
+	path = ca-certificates
+	url = https://github.com/AnacondaRecipes/ca-certificates-feedstock
+	branch = master
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/AnacondaRecipes/openssl-feedstock
+	branch = master
+[submodule "ncurses"]
+	path = ncurses
+	url = https://github.com/AnacondaRecipes/ncurses-feedstock
+	branch = master
+[submodule "readline"]
+	path = readline
+	url = https://github.com/AnacondaRecipes/readline-feedstock
+	branch = master
+[submodule "sqlite"]
+	path = sqlite
+	url = https://github.com/AnacondaRecipes/sqlite-feedstock
+	branch = master
+[submodule "yaml"]
+	path = yaml
+	url = https://github.com/AnacondaRecipes/yaml-feedstock
+	branch = master
+[submodule "python"]
+	path = python
+	url = https://github.com/AnacondaRecipes/python-feedstock
+	branch = master
+[submodule "certifi"]
+	path = certifi
+	url = https://github.com/AnacondaRecipes/certifi-feedstock
+	branch = master
+[submodule "setuptools"]
+	path = setuptools
+	url = https://github.com/AnacondaRecipes/setuptools-feedstock
+	branch = master
+[submodule "pyparsing"]
+	path = pyparsing
+	url = https://github.com/AnacondaRecipes/pyparsing-feedstock
+	branch = master
+[submodule "six"]
+	path = six
+	url = https://github.com/AnacondaRecipes/six-feedstock
+	branch = master
+[submodule "packaging"]
+	path = packaging
+	url = https://github.com/AnacondaRecipes/packaging-feedstock
+	branch = master
+[submodule "idna"]
+	path = idna
+	url = https://github.com/AnacondaRecipes/idna-feedstock
+	branch = master
+[submodule "pycparser"]
+	path = pycparser
+	url = https://github.com/AnacondaRecipes/pycparser-feedstock
+	branch = master
+[submodule "cffi"]
+	path = cffi
+	url = https://github.com/AnacondaRecipes/cffi-feedstock
+	branch = master
+[submodule "cython"]
+	path = cython
+	url = https://github.com/AnacondaRecipes/cython-feedstock
+	branch = master
+[submodule "py"]
+	path = py
+	url = https://github.com/AnacondaRecipes/py-feedstock
+	branch = master
+[submodule "pytest"]
+	path = pytest
+	url = https://github.com/AnacondaRecipes/pytest-feedstock
+	branch = master
+[submodule "coverage"]
+	path = coverage
+	url = https://github.com/AnacondaRecipes/coverage-feedstock
+	branch = master
+[submodule "pytest-cov"]
+	path = pytest-cov
+	url = https://github.com/AnacondaRecipes/pytest-cov-feedstock
+	branch = master
+[submodule "ruamel_yaml"]
+	path = ruamel_yaml
+	url = https://github.com/AnacondaRecipes/ruamel_yaml-feedstock
+	branch = master
+[submodule "vcversioner"]
+	path = vcversioner
+	url = https://github.com/AnacondaRecipes/vcversioner-feedstock
+	branch = master
+[submodule "jsonschema"]
+	path = jsonschema
+	url = https://github.com/AnacondaRecipes/jsonschema-feedstock
+	branch = master
+[submodule "wheel"]
+	path = wheel
+	url = https://github.com/AnacondaRecipes/wheel-feedstock
+	branch = master
+[submodule "pip"]
+	path = pip
+	url = https://github.com/AnacondaRecipes/pip-feedstock
+	branch = master
+[submodule "requests"]
+	path = requests
+	url = https://github.com/AnacondaRecipes/requests-feedstock
+	branch = master
+[submodule "pyopenssl"]
+	path = pyopenssl
+	url = https://github.com/AnacondaRecipes/pyopenssl-feedstock
+	branch = master
+[submodule "conda-env"]
+	path = conda-env
+	url = https://github.com/AnacondaRecipes/conda-env-feedstock
+	branch = master
+[submodule "pycosat"]
+	path = pycosat
+	url = https://github.com/AnacondaRecipes/pycosat-feedstock
+	branch = master
+[submodule "conda"]
+	path = conda
+	url = https://github.com/AnacondaRecipes/conda-feedstock
+	branch = master
+[submodule "tk"]
+	path = tk
+	url = https://github.com/AnacondaRecipes/tk-feedstock
+	branch = master
+[submodule "perl"]
+	path = perl
+	url = https://github.com/AnacondaRecipes/perl-feedstock
+	branch = master
+[submodule "pkgconfig"]
+	path = pkgconfig
+	url = https://github.com/AnacondaRecipes/pkgconfig-feedstock
+	branch = master
